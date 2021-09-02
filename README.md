@@ -1,5 +1,5 @@
 [![rialms](https://github.com/pudrive/dropstore/raw/main/cloner.gif)](https://github.com/rialms/gdrive_cloner/blob/watch/README3.md)
-)
+
 
 # Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/SlamDevs/slam-mirrorbot?color=blue&style=flat)

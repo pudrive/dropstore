@@ -1,4 +1,4 @@
-[![rialms](https://github.com/rialms/gdrive_cloner/raw/gh-pages/cloner.gif)](https://github.com/rialms/gdrive_cloner/blob/watch/README3.md)
+[![rialms](https://github.com/pudrive/dropstore/raw/main/cloner.gif)](https://github.com/rialms/gdrive_cloner/blob/watch/README3.md)
 )
 
 # Mirror Bot

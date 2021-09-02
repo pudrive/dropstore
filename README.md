@@ -1,6 +1,7 @@
-[![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
+[![rialms](https://github.com/rialms/gdrive_cloner/raw/gh-pages/cloner.gif)](https://github.com/rialms/gdrive_cloner/blob/watch/README3.md)
+)
 
-# Slam Mirror Bot
+# Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/SlamDevs/slam-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/SlamDevs/slam-mirrorbot?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/SlamDevs/slam-mirrorbot?style=flat)
